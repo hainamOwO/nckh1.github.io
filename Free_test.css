@@ -72,7 +72,7 @@
 
 /*----------QUESTIONS-----------*/
 #ques{
-  width: 500px;
+  width: 34rem;
 }
 #ques_img{
   position: fixed;
@@ -168,10 +168,10 @@
   line-height: 2rem;
   display: none;
 }
-#cau_sai{
+#cau_sai1,#cau_sai2{
   border-bottom:2px black solid ;
 }
-#cau_sai:hover{
+#cau_sai1:hover,#cau_sai2:hover{
   background-color: orange;
   cursor: pointer;
 }

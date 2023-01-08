@@ -181,3 +181,14 @@ const logo = document.getElementById("logo");
 logo.onclick = function(){
   window.location = "index.html";
 }
+
+const cau_sai1 = document.getElementById("cau_sai1");
+const cau_sai2 = document.getElementById("cau_sai2");
+
+cau_sai1.onclick = function(){
+  window.location = "cau_sai1.html";
+}
+
+cau_sai2.onclick = function(){
+  window.location = "cau_sai2.html";
+}
